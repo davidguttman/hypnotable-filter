@@ -4,7 +4,9 @@
   "description": "Filter hypnotable tables",
   "main": "index.js",
   "scripts": {
-    "example": "beefy example/index.js --open"
+    "example": "beefy example/index.js --open",
+    "test-dev": "beefy test/index.js --live",
+    "test": "browserify test/*.js | testling"
   },
   "keywords": [
     "hypnotable",
@@ -17,6 +19,21 @@
     "tape": "^2.5.0",
     "beefy": "^1.1.0",
     "browserify": "^3.30.2",
-    "hypnotable": "^0.5.2"
+    "hypnotable": "^0.5.2",
+    "testling": "^1.6.0"
+  },
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/6..latest",
+      "chrome/22..latest",
+      "firefox/16..latest",
+      "safari/latest",
+      "opera/11.0..latest",
+      "iphone/6",
+      "ipad/6",
+      "android-browser/latest"
+    ]
   }
+
 }
