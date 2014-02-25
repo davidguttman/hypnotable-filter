@@ -1,7 +1,10 @@
 hypnotable-filter
 =================
 
-Filter hypnotable tables
+Filter [hypnotable](https://github.com/davidguttman/hypnotable) tables 
+
+[![browser support](https://ci.testling.com/davidguttman/hypnotable-filter.png)
+](https://ci.testling.com/davidguttman/hypnotable-filter)
 
     npm i hypnotable-filter
 
@@ -32,6 +35,10 @@ data.forEach(function(row) {
 })
 
 ```
+
+To see a bit more look at `/example/index.js` or locally run:
+
+    npm run-script example
 
 # License #
 
