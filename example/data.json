@@ -1,0 +1,142 @@
+[
+    {
+        "date": "2014-02-23",
+        "browser": "Explorer",
+        "browserVersion": 9,
+        "os": "Windows",
+        "advanced": true
+    },
+    {
+        "date": "2014-02-23",
+        "browser": "Firefox",
+        "browserVersion": 11,
+        "os": "Windows",
+        "advanced": true
+    },
+    {
+        "date": "2014-02-23",
+        "browser": "Firefox",
+        "browserVersion": 27,
+        "os": "Windows",
+        "advanced": true
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Firefox",
+        "browserVersion": 27,
+        "os": "Windows",
+        "advanced": true
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Explorer",
+        "browserVersion": 10,
+        "os": "Windows",
+        "advanced": true
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Explorer",
+        "browserVersion": 8,
+        "os": "Windows",
+        "advanced": true
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Firefox",
+        "browserVersion": 11,
+        "os": "Windows",
+        "advanced": true
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Explorer",
+        "browserVersion": 9,
+        "os": "Windows",
+        "advanced": true
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Firefox",
+        "browserVersion": 27,
+        "os": "Windows",
+        "advanced": true
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Chrome",
+        "browserVersion": 32,
+        "os": "Windows",
+        "advanced": "false"
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Chrome",
+        "browserVersion": 32,
+        "os": "Mac",
+        "advanced": true
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Firefox",
+        "browserVersion": 11,
+        "os": "Windows",
+        "advanced": "false"
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Explorer",
+        "browserVersion": 10,
+        "os": "Windows",
+        "advanced": "false"
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Explorer",
+        "browserVersion": 10,
+        "os": "Windows",
+        "advanced": "false"
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Firefox",
+        "browserVersion": 11,
+        "os": "Windows",
+        "advanced": "false"
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Explorer",
+        "browserVersion": 10,
+        "os": "Windows",
+        "advanced": true
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Explorer",
+        "browserVersion": 10,
+        "os": "Windows",
+        "advanced": "false"
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Firefox",
+        "browserVersion": 11,
+        "os": "Windows",
+        "advanced": true
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Chrome",
+        "browserVersion": 33,
+        "os": "Windows",
+        "advanced": "false"
+    },
+    {
+        "date": "2014-02-24",
+        "browser": "Firefox",
+        "browserVersion": 11,
+        "os": "Windows",
+        "advanced": "false"
+    }
+]
